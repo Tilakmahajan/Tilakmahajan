@@ -1,6 +1,5 @@
 # 💫 About Me:
-Enthusiastic and detail-oriented Web Developer with hands-on experience in building responsive full-stack<br>applications. Proficient in React.js, Node.js, and Firebase, with strong skills in data structures, REST APIs,<br>and Git. Passionate about solving real-world problems through scalable and user-friendly web solutions.
-
+Detail-oriented Web Developer with hands-on experience through an industry internship and multiple mergedopen-source contributions. Proficient in React.js, Next.js, Node.js, Firebase, and Tailwind CSS, with a strongfoundation in Data Structures, REST APIs, and Git. Experienced in building responsive, scalable web applications and collaborating in real-world development workflows
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mahajan.tilak) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/tilak-mahajan) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:tilakmahajan1610@gmail.com) [![Portfolio](https://img.shields.io/badge/Portfolio-%234ea94b.svg?logo=linkedin&logoColor=white)](https://mahajantilak.netlify.app/)
