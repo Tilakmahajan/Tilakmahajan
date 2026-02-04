@@ -1,5 +1,4 @@
-# 💫 About Me:
-Detail-oriented Web Developer with hands-on experience through an industry internship and multiple mergedopen-source contributions. Proficient in React.js, Next.js, Node.js, Firebase, and Tailwind CSS, with a strongfoundation in Data Structures, REST APIs, and Git. Experienced in building responsive, scalable web applications and collaborating in real-world development workflows
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=240&section=header&text=Tilak%20Mahajan&fontSize=75&fontAlignY=35&animation=twinkling&fontColor=fff&desc=Full%20Stack%20Developer%20%7C%20React%20%7C%20Node%20%7C%20DSA&descAlignY=55&descSize=24" width="100%" />
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mahajan.tilak) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/tilak-mahajan) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:tilakmahajan1610@gmail.com) [![Portfolio](https://img.shields.io/badge/Portfolio-%234ea94b.svg?logo=linkedin&logoColor=white)](https://mahajantilak.netlify.app/)
